@@ -2,4 +2,4 @@
 
 Desarrollo de tarea Numero 1 
 
-crear una pagina web basica sin frameworks
+crear una pagina web basica
